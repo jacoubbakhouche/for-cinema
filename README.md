@@ -1,6 +1,6 @@
 
 <html data-fp="fsd8xuhd8b"><head>
-<title>توب سينما - مشاهدة افلام ومسلسلات اون لاين</title>
+<title>فور سينما - مشاهدة افلام ومسلسلات اون لاين</title>
 	<style type="text/css">
 		@font-face{
 			font-family: "MainFont";
@@ -10,24 +10,21 @@
 		@font-face{
 			font-family: "MainFont";
 			font-weight: 400;
-			src: url('https://web3.topcinema.top/wp-content/themes/movies2023/UI/fonts/Bahij_TheSansArabic-Bold.ttf');
-		}
+			
 	</style>
 	<script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript"> (function() { var css = document.createElement('link'); css.href = 'https://site-assets.fontawesome.com/releases/v6.1.1/css/all.css'; css.rel = 'stylesheet'; css.type = 'text/css'; document.getElementsByTagName('head')[0].appendChild(css);var css = document.createElement('link'); css.href = 'https://fonts.googleapis.com/css2?family=Anton&family=Righteous&display=swap'; css.rel = 'stylesheet'; css.type = 'text/css'; document.getElementsByTagName('head')[0].appendChild(css); })(); </script><link href="https://site-assets.fontawesome.com/releases/v6.1.1/css/all.css" rel="stylesheet" type="text/css"><link href="https://fonts.googleapis.com/css2?family=Anton&amp;family=Righteous&amp;display=swap" rel="stylesheet" type="text/css">
 	
 <!-- Search Engine Optimization by Rank Math PRO - https://rankmath.com/ -->
-<meta name="description" content="موقع توب سينما لمشاهدة الافلام والمسلسلات الاجنبي والاسيوي والانمي , مشاهدة احدث الافلام الاجنبي , افلام اون لاين , مسلسلات اونلاين , تحميل مسلسلات وافلام">
+<meta name="description" content="موقع سينما لمشاهدة الافلام والمسلسلات الاجنبي والاسيوي والانمي , مشاهدة احدث الافلام الاجنبي , افلام اون لاين , مسلسلات اونلاين , تحميل مسلسلات وافلام">
 <meta name="robots" content="follow, index">
 <link rel="next" href="https://web3.topcinema.top/page/2/">
 <meta property="og:locale" content="ar_AR">
 <meta property="og:type" content="website">
-<meta property="og:title" content="توب سينما - مشاهدة افلام ومسلسلات اون لاين">
-<meta property="og:description" content="موقع توب سينما لمشاهدة الافلام والمسلسلات الاجنبي والاسيوي والانمي , مشاهدة احدث الافلام الاجنبي , افلام اون لاين , مسلسلات اونلاين , تحميل مسلسلات وافلام">
+<meta property="og:title" content=" سينما - مشاهدة افلام ومسلسلات اون لاين">
+<meta property="og:description" content="موقع سينما لمشاهدة الافلام والمسلسلات الاجنبي والاسيوي والانمي , مشاهدة احدث الافلام الاجنبي , افلام اون لاين , مسلسلات اونلاين , تحميل مسلسلات وافلام">
 <meta property="og:site_name" content="توب سينما">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="توب سينما - مشاهدة افلام ومسلسلات اون لاين">
-<meta name="twitter:description" content="موقع توب سينما لمشاهدة الافلام والمسلسلات الاجنبي والاسيوي والانمي , مشاهدة احدث الافلام الاجنبي , افلام اون لاين , مسلسلات اونلاين , تحميل مسلسلات وافلام">
-<script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://web3.topcinema.top/#person","name":"\u062a\u0648\u0628 \u0633\u064a\u0646\u0645\u0627"},{"@type":"WebSite","@id":"https://web3.topcinema.top/#website","url":"https://web3.topcinema.top","name":"\u062a\u0648\u0628 \u0633\u064a\u0646\u0645\u0627","publisher":{"@id":"https://web3.topcinema.top/#person"},"inLanguage":"ar","potentialAction":{"@type":"SearchAction","target":"https://web3.topcinema.top/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"CollectionPage","@id":"#webpage","url":"","name":"\u062a\u0648\u0628 \u0633\u064a\u0646\u0645\u0627 - \u0645\u0634\u0627\u0647\u062f\u0629 \u0627\u0641\u0644\u0627\u0645 \u0648\u0645\u0633\u0644\u0633\u0644\u0627\u062a \u0627\u0648\u0646 \u0644\u0627\u064a\u0646","about":{"@id":"https://web3.topcinema.top/#person"},"isPartOf":{"@id":"https://web3.topcinema.top/#website"},"inLanguage":"ar"}]}</script>
+م">
+<script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph"::{"@type":"SearchAction","target":"https://web3.topcinema.top/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"CollectionPage","@id":"#webpage","url":"","name":"\u062a\u0648\u0628 \u0633\u064a\u0646\u0645\u0627 - \u0645\u0634\u0627\u0647\u062f\u0629 \u0627\u0641\u0644\u0627\u0645 \u0648\u0645\u0633\u0644\u0633\u0644\u0627\u062a \u0627\u0648\u0646 \u0644\u0627\u064a\u0646","about":{"@id":"https://web3.topcinema.top/#person"},"isPartOf":{"@id":"https://web3.topcinema.top/#website"},"inLanguage":"ar"}]}</script>
 <!-- /Rank Math WordPress SEO plugin -->
 
 <style id="global-styles-inline-css" type="text/css">
@@ -37,10 +34,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 :where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
 .wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
 </style>
-<link rel="icon" href="https://web3.topcinema.top/wp-content/uploads/2023/05/cropped-icon-32x32.png" sizes="32x32">
-<link rel="icon" href="https://web3.topcinema.top/wp-content/uploads/2023/05/cropped-icon-192x192.png" sizes="192x192">
-<link rel="apple-touch-icon" href="https://web3.topcinema.top/wp-content/uploads/2023/05/cropped-icon-180x180.png">
-<meta name="msapplication-TileImage" content="https://web3.topcinema.top/wp-content/uploads/2023/05/cropped-icon-270x270.png">
+<link rel="icon" href="https://web3.topcinema.fop/wp-content/uploads/2023/05/cropped-icon-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://web3.fopcinema.top/wp-content/uploads/2023/05/cropped-icon-180x180.png">
+<meta name="msapplication-TileImage" content="https://web3.fopcinema.top/wp-content/uploads/2023/05/cropped-icon-270x270.png">
 						<link rel="canonical" href="https://web.topcinema.cam">
 		<meta charset="UTF-8">
 	<meta name="googlebot" content="archive">
@@ -75,9 +71,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 			</li>
 			<li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="https://web3.topcinema.top/movies/">الافلام</a>
 <ul class="sub-menu">
-	<li id="menu-item-74" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-74"><a href="https://web3.topcinema.top/category/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%a7%d8%ac%d9%86%d8%a8%d9%8a/">افلام اجنبي</a></li>
-	<li id="menu-item-76" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-76"><a href="https://web3.topcinema.top/category/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%a7%d9%86%d9%85%d9%8a/">افلام انمي</a></li>
-	<li id="menu-item-75" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-75"><a href="https://web3.topcinema.top/category/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%a7%d8%b3%d9%8a%d9%88%d9%8a/">افلام اسيوي</a></li>
+	<li id="menu-item-74" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-74"><a href="https://web3.fopcinema.top/category/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%a7%d8%ac%d9%86%d8%a8%d9%8a/">افلام اجنبي</a></li>
+	<li id="menu-item-76" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-76"><a href="https://web3.fopcinema.top/category/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%a7%d9%86%d9%85%d9%8a/">افلام انمي</a></li>
+	<li id="menu-item-75" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-75"><a href="https://web3.fopcinema.top/category/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%a7%d8%b3%d9%8a%d9%88%d9%8a/">افلام اسيوي</a></li>
 	<li id="menu-item-110" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-110"><a href="https://web3.topcinema.top/netflix-movies/">افلام نتفليكس</a></li>
 	<li id="menu-item-109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-109"><a href="https://web3.topcinema.top/movies-collections/">سلاسل الافلام</a></li>
 	<li id="menu-item-108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108"><a href="https://web3.topcinema.top/top-rating-imdb/">الاعلي تقييما IMDB ⭐</a></li>
