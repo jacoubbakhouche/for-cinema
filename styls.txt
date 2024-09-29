@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000; /* خلفية سوداء */
+    color: #fff; /* لون الكتابة أبيض */
+    margin: 0;
+    padding: 20px;
+}
+
+.box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+video {
+    width: 300px; /* عرض الفيديو */
+    border: 2px solid #ccc; /* لون الإطار */
+    border-radius: 8px; /* حواف دائرية */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* ظل */
+    transition: transform 0.3s; /* تأثير الحركة */
+}
+
+video:hover {
+    transform: scale(1.05); /* تكبير عند التحويم */
+}
+
+a {
+    text-decoration: none; /* إزالة الخط السفلي من الروابط */
+    color: #fff; /* لون الروابط أبيض */
+}
